@@ -1,1 +1,10 @@
 # CS-340-Client-Server-Development
+
+**How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+  The first step to writing code is to research what resources are available and use them as notes to create the code for the program.  Using the resources basic set of code is the best route because there is not as much change needed to the code instead of starting from scratch.  Using the CRUD file in future projects will be possible because it provides the basics with only some minor changes needed such as the database information.
+
+**How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+  Breaking down the code is the first step to being able to solve a problem as a computer scientist.  This course was very challenging for me and is going to take more studying to learn.  I was able to obtain some help from peers but due to my limited time I wasn't able to accomplish as much as I would have liked to.  Using these current .py and .ipynb files as a foundation will assist me with my future studies.
+  
+**What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+  A computer scientist uses technology to solve problems when it comes to modifying data.  The completed Project Two could be used as a model code for companies to easily search for data using selections.  This could also provide a location via chart information.
